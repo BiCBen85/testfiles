@@ -2,7 +2,7 @@
     "name": "FAKENFT",
     "symbol": "FAKE",
     "description": "My fucking awesome NFT",
-    "image": "https://github.com/BiCBen85/testfiles/blob/main/fhtw-logo.png",
+    "image": "https://github.com/BiCBen85/testfiles/blob/main/fhtw_logo.png",
     "attributes": [
       {
         "trait_type": "Item",
