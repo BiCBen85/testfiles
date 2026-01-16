@@ -2,7 +2,7 @@
     "name": "FAKENFT",
     "symbol": "FAKE",
     "description": "My fucking awesome NFT",
-    "image": "https://github.com/BiCBen85/testfiles/blob/main/fhtw_logo.png",
+    "image": "https://www.technikum-wien.at/_next/image/?url=https%3A%2F%2Fmedia-hp.technikum-wien.at%2Fmedia%2F20220719134959%2Ffhtw_logo_fuer_signatur.png&w=1920&q=75",
     "attributes": [
       {
         "trait_type": "Item",
