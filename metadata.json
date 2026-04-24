@@ -2,7 +2,7 @@
     "name": "FAKENFT",
     "symbol": "FAKE",
     "description": "FHTW NFT",
-    "image": "https://w7.pngwing.com/pngs/1018/566/png-transparent-smiley-emoticon-sadness-random-icons-miscellaneous-face-black-and-white-thumbnail.png",
+    "image": "https://github.com/BiCBen85/testfiles/blob/main/fhtw_logo.png?raw=true",
     "attributes": [
       {
         "trait_type": "Item",
