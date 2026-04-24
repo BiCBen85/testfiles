@@ -1,12 +1,12 @@
 {
     "name": "FAKENFT",
     "symbol": "FAKE",
-    "description": "My fucking awesome NFT",
+    "description": "FHTW NFT",
     "image": "https://w7.pngwing.com/pngs/1018/566/png-transparent-smiley-emoticon-sadness-random-icons-miscellaneous-face-black-and-white-thumbnail.png",
     "attributes": [
       {
         "trait_type": "Item",
-        "value": "Nothing"
+        "value": "FHTW Logo"
       }
     ]
   }
