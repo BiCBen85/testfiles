@@ -1,7 +1,7 @@
 {
-    "name": "FAKENFT",
-    "symbol": "FAKE",
-    "description": "FHTW NFT",
+    "name": "FHTWNFT",
+    "symbol": "FHTW",
+    "description": "Test NFT with logo",
     "image": "https://raw.githubusercontent.com/BiCBen85/testfiles/refs/heads/main/fhtw_logo.png",
     "attributes": [
       {
